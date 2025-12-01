@@ -11,4 +11,4 @@ To start the slide show:
 - `pnpm dev`
 - visit <http://localhost:3030>
 
-Or view it online at https://holistic-developer.github.io/git-gud/.
+Or view it online at https://andreas-taranetz.github.io/git-gud/.
