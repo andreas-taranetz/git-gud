@@ -93,9 +93,9 @@ layout: center
 
 <div class="flex flex-col items-center gap-4">
 <div class="text-center">
-<QRCode value="https://holistic-developer.github.io/git-gud/" :size="200" :render-as="svg" :margin="1"/>
+<QRCode value="https://andreas-taranetz.github.io/git-gud/" :size="200" :render-as="svg" :margin="1"/>
 
-[slides](https://holistic-developer.github.io/git-gud/)
+[slides](https://andreas-taranetz.github.io/git-gud/)
 </div>
 
 <div class="text-center">
